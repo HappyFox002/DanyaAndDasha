@@ -1,0 +1,119 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.449; Version 1909; 64bit' Language: 'ru' Physical Memory: 16319 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Program\UnityVersions\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Code/Unity/DanyaAndDasha
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49855
+Successfully changed project path to: D:/Code/Unity/DanyaAndDasha
+D:/Code/Unity/DanyaAndDasha
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 65.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path D:/Program/UnityVersions/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Code/Unity/DanyaAndDasha/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560 (ID=0x1201)
+    Vendor:   
+    VRAM:     969 MB
+    Driver:   23.21.13.9135
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'D:/Program/UnityVersions/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program/UnityVersions/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program/UnityVersions/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56612
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program/UnityVersions/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001288 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 67.10 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.829 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003567 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 66.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.502 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2776 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.3 MB.
+System memory in use after: 153.5 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3258.
+Total: 3.912200 ms (FindLiveObjects: 0.528900 ms CreateObjectMapping: 0.356000 ms MarkObjects: 2.919000 ms  DeleteObjects: 0.106600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/UI/ChoiceBuild.cs
+  artifactKey: Guid(c14f6c6784c657041bd5a3ffd6ab85de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UI/ChoiceBuild.cs using Guid(c14f6c6784c657041bd5a3ffd6ab85de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6adef8bcd09a40298cdb68c7589471a') in 0.054590 seconds
+  Import took 0.080632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Scripts/UI
+  artifactKey: Guid(1d4869f6938b1884cb8da11873a02538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UI using Guid(1d4869f6938b1884cb8da11873a02538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a93911d6f17bffd2ad03431b2666e7b3') in 0.001211 seconds
+  Import took 0.008135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Scripts/UI/ScrollResize.cs
+  artifactKey: Guid(ffd46f649db8d3e4f8fab61e8231a7a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UI/ScrollResize.cs using Guid(ffd46f649db8d3e4f8fab61e8231a7a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a66adacde2180aaa61c3010c3ab944f8') in 0.001429 seconds
+  Import took 0.006909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Scripts/UI/UIController.cs
+  artifactKey: Guid(2fae620d1e8cc354cb8f6eefdd1d981f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UI/UIController.cs using Guid(2fae620d1e8cc354cb8f6eefdd1d981f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09bb4828ee3be4779241f9081429dc18') in 0.001163 seconds
+  Import took 0.007095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Scripts/UI/StaminaBar.cs
+  artifactKey: Guid(fe254a77ef0dddb43b88b46c0d374c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UI/StaminaBar.cs using Guid(fe254a77ef0dddb43b88b46c0d374c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91d7d05b126a056d07f209c74a2fa4de') in 0.001195 seconds
+  Import took 0.006724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Scripts/UI/HealthBar.cs
+  artifactKey: Guid(662ac11506c3c87498f2766ec60dc9da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UI/HealthBar.cs using Guid(662ac11506c3c87498f2766ec60dc9da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d52ee70452f73585d96bb7622bfba8d') in 0.001388 seconds
+  Import took 0.007021 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
